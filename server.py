@@ -4,7 +4,7 @@ import threading
 
 
 # Connection Data
-host = '192.168.214.120'
+host = '172.18.1.38'
 port = 55555
 
 # Starting Server
